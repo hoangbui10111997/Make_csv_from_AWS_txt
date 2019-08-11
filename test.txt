@@ -1,0 +1,12 @@
+Explanation:
+AWS Key Management Service gives you centralized control over the encryption keys used to
+protect your data. You can create, import, rotate, disable, delete, define usage policies for,
+and audit the use of encryption keys used to encrypt your data
+The AWS Security Token Service (STS) is a web service that enables you to request
+temporary, limited-privilege credentials for AWS Identity and Access Management (IAM)
+users
+AWS Database Migration Service (DMS) helps you migrate databases to AWS quickly and
+securely
+Amazon Elastic Block Store (Amazon EBS) provides persistent block storage volumes for
+use with Amazon EC2instances in the AWS Cloud
+References:
