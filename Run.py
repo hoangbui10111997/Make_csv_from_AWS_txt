@@ -156,8 +156,8 @@ def main():
     file_cache.close()
     create_csv()
     print("Create file CSV complete!")
-    #os.remove("Cache.txt")
-    #print("Deleted Cache file")
+    os.remove("Cache.txt")
+    print("Deleted Cache file")
 
 
 if __name__ == '__main__':
