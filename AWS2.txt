@@ -1,0 +1,730 @@
+Question 1
+Which AWS service is primarily used for software version control?
+1. AWS CodeCommit
+2. AWS CodeStar
+3. AWS Cloud9
+4. AWS CodeDeploy
+
+Question 2
+Which AWS service can you use to install a third-party database?
+1. Amazon RDS
+2. Amazon DynamoDB
+3. Amazon EC2
+4. Amazon EMR
+
+Question 3
+Identify the services that have a global (rather than regional) scope? (choose 2)
+1. Amazon Route 53
+2. Amazon S3
+3. Amazon CloudFront
+4. AWS Lambda
+5. Amazon EC2
+
+Question 4
+Which service can you use to provision a preconfigured server with little to no AWS experience?
+1. Amazon Elastic Beanstalk
+2. AWS Lambda
+3. Amazon EC2
+4. Amazon Lightsail
+
+Question 5
+Which AWS service allows you to connect to storage from on-premise servers using standard file
+protocols?
+1. Amazon S3
+2. Amazon EBS
+3. Amazon Glacier
+4. Amazon EFS
+
+Question 6
+Which pricing model should you use for EC2 instances that will be used in a lab environment for
+several hours on a weekend and must run uninterrupted?
+1. On-Demand
+2. Reserved
+3. Spot
+4. Dedicated Instance
+
+Question 7
+What is an availability zone composed of?
+1. One or more regions
+2. One or more DCs in a location
+3. A collection of edge locations
+4. A collection of VPCs
+
+Question 8
+Which AWS services are used for analytics? (choose 2)
+1. Amazon RDS
+2. Amazon ElastiCache
+3. Amazon Athena
+4. Amazon S3
+5. Amazon EMR
+
+Question 9
+What advantages does deploying Amazon CloudFront provide? (choose 2)
+1. A private network link to the AWS cloud
+2. Reduced latency
+3. Automated deployment of resources
+4. Improved performance for end users
+5. Provides serverless compute services
+
+Question 10
+What considerations are there when choosing which region to use? (choose 2)
+1. Data sovereignty
+2. Available storage capacity
+3. Latency
+4. Pricing in local currency
+5. Available compute capacity
+
+Question 11
+Which service can be used to track the CPU usage of an EC2 instance?
+1. Amazon CloudTrail
+2. Amazon CloudFront
+3. Amazon CloudFormation
+4. Amazon CloudWatch
+
+Question 12
+Which feature of AWS allows you to deploy a new application for which the requirements may
+change over time?
+1. Elasticity
+2. Fault tolerance
+3. Disposable resources
+4. High availability
+
+Question 13
+Which items can be configured from within the VPC management console? (choose 2)
+1. Subnets
+2. Regions
+3. Load Balancing
+4. Auto Scaling
+5. Security Groups
+
+Question 14
+Which services are integrated with KMS encryption? (choose 2)
+1. Amazon RDS
+2. Amazon EC2
+3. Amazon EBS
+4. Amazon SWF
+5. AWS CloudFormation
+
+Question 15
+Which service allows you to automatically expand and shrink your application in response to
+demand?
+1. AWS ElastiCache
+2. Amazon Elastic Load Balancing
+3. AWS Auto Scaling
+4. Amazon DynamoDB
+
+Question 16
+The AWS global infrastructure is composed of? (choose 2)
+1. Regions
+2. Clusters
+3. Fault Zones
+4. Availability Zones
+5. IP subnets
+
+Question 17
+Which of the statements below is accurate regarding Amazon S3 buckets? (choose 2)
+1. Bucket names must be unique regionally
+2. Buckets are replicated globally
+3. Bucket names must be unique globally
+4. Buckets are region-specific
+5. Buckets can contain other buckets
+
+Question 18
+Which AWS storage technology can be considered a "virtual hard disk in the cloud"?
+1. Amazon Elastic File Storage (EFS) filesystem
+2. Amazon Elastic Block Storage (EBS) volume
+3. Amazon S3 object
+4. Amazon Glacier archive
+
+Question 19
+Under the AWS shared responsibility model what is the customer responsible for? (choose 2)
+1. Physical security of the data center
+2. Replacement and disposal of disk drives
+3. Configuration of security groups
+4. Patch management of infrastructure
+5. Encryption of customer data
+
+Question 20
+Which service records API activity on your account and delivers log files to an Amazon S3 bucket?
+1. Amazon CloudWatch
+
+2. Amazon S3 Event Notifications
+3. Amazon CloudTrail
+4. Amazon CloudWatch Logs
+
+Question 21
+The IAM service can be used to manage which objects? (choose 2)
+1. Security groups
+2. Access policies
+3. Roles
+4. Network ACLs
+5. Key pairs
+
+Question 22
+Which types of pricing policies does AWS offer? (choose 2)
+1. Pay-as-you-go
+2. Enterprise license agreement (ELA)
+3. Non-peak hour discounts
+4. Global usage discounts
+5. Save when you reserve
+
+Question 23
+Which tool enables you to visualize your usage patterns over time and to identify your underlying cost
+drivers?
+1. AWS Simple Monthly Calculator
+2. Total Cost of Ownership (TCO) Calculator
+3. AWS Cost Explorer
+4. AWS Budgets
+
+Question 24
+What advantages do you get from using the AWS cloud? (choose 2)
+
+1.
+2.
+3.
+4.
+5.
+
+Trade capital expense for variable expense
+Stop guessing about capacity
+Increased capital expenditure
+Gain greater control of the infrastructure layer
+Comply with all local security compliance programs
+
+Question 25
+A company plans to create a hybrid cloud architecture. What technology will allow them to create a
+hybrid cloud?
+1. VPC Peering
+2. Internet Gateway
+3. Direct Connect
+4. Elastic Network Interface
+
+Question 26
+Which service supports the resolution of public domain names to IP addresses or AWS resources?
+1. Amazon Route 53
+2. Amazon CloudFront
+3. Amazon SNS
+4. Hosted Zones
+
+Question 27
+What can you use to quickly connect your office securely to your Amazon VPC?
+1. Route Table
+2. Internet Gateway
+3. Direct Connect
+4. AWS managed VPN
+
+Question 28
+What is the scope of a VPC within a region?
+
+1.
+2.
+3.
+4.
+
+Spans all Availability Zones within the region
+Spans all Availability Zones globally
+At least 2 subnets per region
+At least 2 data centers per region
+
+Question 29
+Which service can be used for building and integrating loosely-coupled, distributed applications?
+1. Amazon EBS
+2. Amazon SNS
+3. Amazon EFS
+4. Amazon RDS
+
+Question 30
+Which type of Amazon Elastic Load Balancer operates at layer 7 of the OSI model?
+1. Application Load Balancer
+2. Network Load Balancer
+3. Classic Load Balancer
+4. F5 Load Balancer
+
+Question 31
+Which services can help to automate a company's IT infrastructure? (choose 2)
+1. Amazon CloudWatch Alarms
+2. Amazon Route 53
+3. AWS Lambda Scheduled Events
+4. Virtual Private Cloud
+5. Elastic Network Interface
+
+Question 32
+Which database service is a NoSQL type of database that is fully managed?
+1. Amazon RDS
+
+2. Amazon DynamoDB
+3. Amazon RedShift
+4. Amazon ElastiCache
+
+Question 33
+Which storage service allows you to connect multiple EC2 instances concurrently using file-level
+protocols?
+1. Amazon S3
+2. Amazon EBS
+3. Amazon EFS
+4. Amazon Glacier
+
+Question 34
+For which services does Amazon not charge customers? (choose 2)
+1. Amazon VPC
+2. Amazon EBS
+3. Amazon CloudFormation
+4. Amazon S3
+5. Amazon SNS
+
+Question 35
+What architectural best practice aims to reduce the interdependencies between services?
+1. Services, Not Servers
+2. Removing Single Points of Failure
+3. Automation
+4. Loose Coupling
+
+Question 36
+What is the most cost-effective support plan that should be selected to provide at least a 1-hour
+response time for a production system failure?
+1. Basic
+2. Developer
+3. Business
+4. Enterprise
+
+Question 37
+Which AWS database service supports complex queries and joins and is suitable for a transactional
+database deployment?
+1. Amazon RDS
+2. Amazon DynamoDB
+3. Amazon RedShift
+4. Amazon EMR
+
+Question 38
+Under the shared responsibility model, what are examples of shared controls? (choose 2)
+1. Patch management
+2. Storage system patching
+3. Physical and environmental
+4. Configuration management
+5. Service and Communications Protection
+
+Question 39
+How can an organization compare the cost of running applications in an on-premise or colocation
+environment against the AWS cloud?
+1. AWS Budgets
+2. AWS Simple Monthly Calculator
+3. TCO Calculator
+4. AWS Cost Explorer
+
+Question 40
+What is the most cost-effective EC2 pricing option to use for a non-critical overnight workload?
+1. On-Demand
+2. Spot
+3. Reserved Instance
+4. Dedicated Host
+
+Question 41
+Which service allows you to run code as functions without needing to provision or manage servers?
+1. Amazon EC2
+2. Amazon CodeDeploy
+3. AWS Lambda
+4. Amazon EKS
+
+Question 42
+What benefits does Amazon EC2 provide over using non-cloud servers? (choose 2)
+1. Complete control of the hypervisor layer
+2. Elastic web-scale computing
+3. Inexpensive
+4. Fault tolerance
+5. High-availability with an SLA of 99.99%
+
+Question 43
+Which type of Elastic Load Balancer operates at the connection layer (layer 4) and supports IP
+addresses as targets?
+1. Application Load Balancer
+2. Network Load Balancer
+3. Classic Load Balancer
+4. ELBs do not support IP addresses as targets
+
+Question 44
+Which of the following are features of Amazon CloudWatch? (choose 2)
+1. Used to gain system-wide visibility into resource utilization
+
+2. Records account activity and service events from most AWS services
+3. Used for auditing of API calls
+4. Can be accessed via API, command-line interface, AWS SDKs, and the AWS Management
+Console
+5. Provides visibility into user activity by recording actions taken on your account
+
+Question 45
+Amazon S3 bucket names must follow as set of rules. Which of the rules below apply to Amazon S3
+bucket names? (choose 2)
+1. Names must be unique across all of AWS
+2. Names must be 3 to 63 characters in length
+3. Names must contain uppercase letters
+4. Names must be unique within a region
+5. Names must be formatted as a DNS domain name
+
+Question 46
+Which of the following statements are correct about Elastic Block Store (EBS) volumes? (choose 2)
+1. Root EBS volumes are retained on termination by default
+2. EBS volumes must be in the same AZ as the instances they are attached to
+3. You can attach multiple EBS volumes to an instance
+4. You can attach an EBS volume to multiple instances
+5. EBS volumes cannot be backed up
+
+Question 47
+Which statement below is incorrect in relation to Security Groups?
+1. Operate at the instance level
+2. Support allow rules only
+3. Stateless
+4. Evaluate all rules
+
+Question 48
+
+What constraints apply to customers when performing penetration testing? (choose 2)
+1. Permission is required for all penetration tests
+2. You can perform penetration testing on your own systems at any time without prior
+authorization
+3. You must complete and submit the AWS Vulnerability / Penetration Testing Request Form to
+request authorization
+4. Penetration testing can be performed against any AWS resources
+5. Penetration testing must be performed by a certified security consultant
+
+Question 49
+Which statement below is incorrect in relation to Network ACLs?
+1. Operate at the Availability Zone level
+2. Support allow and deny rules
+3. Stateless
+4. Process rules in order
+
+Question 50
+What benefits are provided by Amazon CloudFront? (choose 2)
+1. Allows you to register domain names
+2. Built-in Distributed Denial of Service (DDoS) attack protection
+3. Used to enable private subnet instances to access the Internet
+4. Content is cached at Edge Locations for fast distribution to customers
+5. Provides a worldwide distributed DNS service
+
+Question 51
+Which service can be used to help you to migrate databases to AWS quickly and securely?
+1. AWS KMS
+2. AWS SMS
+3. AWS DMS
+4. AWS Migration Hub
+
+Question 52
+Which feature can you use to grant read/write access to an Amazon S3 bucket?
+1. IAM Role
+2. IAM Policy
+3. IAM Group
+4. IAM User
+
+Question 53
+Which AWS support plan should you use if you need a response time of < 15 minutes for a businesscritical system failure?
+1. Basic
+2. Developer
+3. Business
+4. Enterprise
+
+Question 54
+Which AWS service is used to enable multi-factor authentication?
+1. Amazon STS
+2. AWS IAM
+3. Amazon EC2
+4. AWS KMS
+
+Question 55
+Which AWS service can be used to convert video and audio files from their source format into
+versions that will playback on devices like smartphones, tablets and PC?
+1. Elastic Transcoder
+2. Elastic Beanstalk
+3. Elastic Load Balancer
+4. Auto Scaling
+
+Question 56
+What method can you use to take a backup of an Amazon EC2 instance using AWS tools?
+1. Take full and incremental file-level backups using the backup console
+2. Take application-consistent backups using the EC2 API
+3. Use Cross Region Replication (CRR) to copy the instance to another region
+4. Take a snapshot to capture the point-in-time state of the instance
+
+Question 57
+What are two ways that moving to an AWS cloud can benefit an organization? (choose 2)
+1. Switch to a CAPEX model
+2. Increase speed and agility
+3. Stop guessing about capacity
+4. Depreciate assets over a longer timeframe
+5. Gain greater control of data center security
+
+Question 58
+Which of the following statements is correct in relation to consolidated billing? (choose 2)
+1. Paying accounts are independent and cannot access resources of other accounts
+2. Used to consolidate billing across organizations
+3. One bill is provided per AWS organization
+4. Volume pricing discounts cannot be applied to resources
+5. Only available to Enterprise customers
+
+Question 59
+Which AWS service allows you to use block-based volumes on-premise that are then asynchronously
+backed up to Amazon S3?
+1. AWS Storage Gateway File Gateway
+2. AWS Storage Gateway Volume Gateway
+3. Amazon S3 Multi-Part upload
+4. Amazon S3 Transfer Acceleration
+
+Question 60
+When instantiating compute resources, what are two techniques for using automated, repeatable
+processes that are fast and avoid human error? (choose 2)
+1. Snapshotting
+2. Bootstrapping
+3. Fault tolerance
+4. Infrastructure as code
+5. Performance monitoring
+
+Question 61
+A company would like to maximize their potential volume and RI discounts across multiple accounts
+and also apply service control policies on member accounts. What can they use gain these benefits?
+1. AWS Budgets
+2. AWS Cost Explorer
+3. AWS IAM
+4. AWS Organizations
+
+Question 62
+Which AWS service can an organization use to automate operational tasks on EC2 instances using
+existing Chef cookbooks?
+1. AWS OpsWorks
+2. AWS Service Catalog
+3. AWS Config
+4. AWS CodeDeploy
+
+Question 63
+Which AWS service can be used to process a large amount of data using the Hadoop framework?
+1. Amazon Athena
+2. Amazon Kinesis
+3. AWS Glue
+4. Amazon EMR
+
+Question 64
+Which feature of Amazon Rekognition can assist with saving time?
+1. Identification of objects in images and videos
+2. Identification of the language of text in a document
+3. Adds automatic speech recognitions (ASR) to applications
+4. Provides on-demand access to compliance-related information
+
+Question 65
+Which type of cloud deployment enables customers to leverage the benefits of the public cloud and
+co-existing with on-premises infrastructure?
+1. Public Cloud
+2. Private Cloud
+3. Hybrid Cloud
+4. Legacy IT Infrastructure
+
+SET 1: PRACTICE QUESTIONS, ANSWERS &
+EXPLANATIONS
+Question 1
+Which AWS service is primarily used for software version control?
+1. AWS CodeCommit
+2. AWS CodeStar
+3. AWS Cloud9
+4. AWS CodeDeploy
+
+Answer: 1
+Explanation:
+AWS CodeCommit is a fully-managed source control service that hosts secure Git-based
+repositories. It makes it easy for teams to collaborate on code in a secure and highly scalable
+ecosystem
+AWS CodeStar enables you to quickly develop, build, and deploy applications on AWS. AWS
+CodeStar provides a unified user interface, enabling you to easily manage your software
+development activities in one place
+AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write,
+run, and debug your code with just a browser
+AWS CodeDeploy is a deployment service that automates application deployments to Amazon
+EC2 instances, on-premises instances, or serverless Lambda functions
+References:
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/additionalaws-services-tools/
+https://aws.amazon.com/codecommit/
+https://aws.amazon.com/codestar/
+https://aws.amazon.com/cloud9/
+https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html
+
+Question 2
+Which AWS service can you use to install a third-party database?
+1. Amazon RDS
+2. Amazon DynamoDB
+3. Amazon EC2
+
+4. Amazon EMR
+Answer: 3
+Explanation:
+All of these services are managed services except for Amazon EC2. EC2 is the only service
+in the list upon which you can manually install the database software of your choice
+References:
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/awscompute/
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/awsdatabases/
+
+
+SET 2: PRACTICE QUESTIONS ONLY
+Click here to go directly to Set 2: Practice Questions, Answers & Explanations
+
+Question 1
+Which AWS service gives you centralized control over the encryption keys used to protect your data?
+1. AWS STS
+2. AWS KMS
+3. AWS DMS
+4. Amazon EBS
+
+Question 2
+How can a security compliance officer retrieve AWS compliance documentation such as a SOC 2
+report?
+1. Using AWS Artifact
+2. Using AWS Trusted Advisor
+3. Using AWS Inspector
+4. Using the AWS Personal Health Dashboard
+
+Question 3
+Which items should be included in a TCO analysis comparing on-premise to AWS Cloud? (choose 2)
+1. Firewall management
+2. Application licensing
+3. Compute hardware
+4. Data center security
+5. Operating system patching
+
+Question 4
+Which service provides visibility into user activity by recording actions taken on your account?
+1. Amazon CloudWatch
+2. Amazon CloudFormation
+3. Amazon CloudTrail
+
+4. Amazon CloudHSM
+
+SET 2: PRACTICE QUESTIONS, ANSWERS &
+EXPLANATIONS
+Question 1
+Which AWS service gives you centralized control over the encryption keys used to protect your data?
+1. AWS STS
+2. AWS KMS
+3. AWS DMS
+4. Amazon EBS
+
+Answer: 2
+Explanation:
+AWS Key Management Service gives you centralized control over the encryption keys used to
+protect your data. You can create, import, rotate, disable, delete, define usage policies for,
+and audit the use of encryption keys used to encrypt your data
+The AWS Security Token Service (STS) is a web service that enables you to request
+temporary, limited-privilege credentials for AWS Identity and Access Management (IAM)
+users
+AWS Database Migration Service (DMS) helps you migrate databases to AWS quickly and
+securely
+Amazon Elastic Block Store (Amazon EBS) provides persistent block storage volumes for
+use with Amazon EC2instances in the AWS Cloud
+References:
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/cloudsecurity/
+
+Question 2
+How can a security compliance officer retrieve AWS compliance documentation such as a SOC 2
+report?
+1. Using AWS Artifact
+2. Using AWS Trusted Advisor
+3. Using AWS Inspector
+4. Using the AWS Personal Health Dashboard
+Answer: 4
+Explanation:
+Only Amazon Glacier has a minimum storage duration charge of 90 days. Standard-IA and
+One Zone-IA both have a minimum storage duration charge of 30 days
+References:
+https://digitalcloud.training/certification-training/aws-solutions-architectassociate/storage/amazon-s3/
+
+Question 30
+When using Amazon Kinesis Data Streams, where can a consumer store their results? (choose 2)
+1. Amazon S3
+2. Amazon RDS
+3. Amazon DynamoDB
+4. Amazon ECS
+5. Amazon EBS
+
+Answer: 1,3
+Explanation:
+Kinesis Data Streams enables you to build custom applications that process or analyze
+
+streaming data for specialized needs. Producers continually push data to Kinesis Data
+Streams and Consumers process the data in real time. Consumers can store their results using
+an AWS service such as Amazon DynamoDB, Amazon Redshift, or Amazon S3
+References:
+https://digitalcloud.training/certification-training/aws-solutions-architectassociate/analytics/amazon-kinesis/
+
+Question 57
+Which AWS service is designed to be used for operational analytics?
+1. Amazon EMR
+2. Amazon Athena
+3. Amazon QuickSight
+4. Amazon Elasticsearch Service
+
+Answer: 4
+Explanation:
+For operational analytics such as application monitoring, log analytics and clickstream
+analytics, Amazon Elasticsearch Service allows you to search, explore, filter, aggregate, and
+visualize your data in near real-time
+For big data processing using the Spark and Hadoop frameworks, Amazon EMR provides a
+managed service that makes it easy, fast, and cost-effective to process vast amounts data
+For interactive analysis, Amazon Athena makes it easy to analyze data directly in S3 and
+Glacier using standard SQL queries
+For dashboards and visualizations, Amazon QuickSight provides you a fast, cloud-powered
+business analytics service, that that makes it easy to build stunning visualizations and rich
+dashboards that can be accessed from any browser or mobile device
+References:
+https://aws.amazon.com/big-data/datalakes-and-analytics/
+
+Question 58
+You need to connect your company’s on-premise network into AWS and would like to establish an
+AWS managed VPN service. Which of the following configuration items needs to be setup on the
+Amazon VPC side of the connection?
+1. A Virtual Private Gateway
+2. A Customer Gateway
+
+3. A Network Address Translation device
+4. A Firewall
+
+Answer: 1
+Explanation:
+A virtual private gateway is the VPN concentrator on the Amazon side of the VPN
+connection. You create a virtual private gateway and attach it to the VPC from which you want
+to create the VPN connection
+A customer gateway is a physical device or software application on your side of the VPN
+connection
+NAT devices and firewalls are not required for an AWS managed VPN
+References:
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/awsnetworking/
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_VPN.html#VPN
+
+Question 59
+Where are Amazon EBS snapshots stored?
+1. On an Amazon EBS instance store
+2. On an Amazon EFS filesystem
+3. Within the EBS block store
+4. On Amazon S3
+
+Answer: 4
+Explanation:
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/awsstorage/
+References:
+Snapshots capture a point-in-time state of an instance. Snapshots are stored on S3
+
+Question 60
+Which type of Elastic Load Balancer distributes traffic using the TCP, SSL, HTTP and HTTPS
+protocol information?
+1. Application Load Balancer (ALB)
+
+2. Network Load Balancer (NLB)
+3. Classic Load Balancer (CLB)
+4. No load balancers operate at the TCP level
+
+Answer: 3
+Explanation:
+CLBs process traffic at the TCP, SSL, HTTP and HTTPS levels (layer 4 & 7)
+ALBs process traffic at the HTTP, HTTPS level (layer 7)
+NLBs process traffic at the TCP level (layer 4)
+References:
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/elasticload-balancing-and-auto-scaling/
+https://digitalcloud.training/certification-training/aws-solutions-architectassociate/compute/elastic-load-balancing/
+
+MARK TO STOP
+MARK TO STOP
+MARK TO STOP
+MARK TO STOP
