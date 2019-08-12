@@ -8,7 +8,7 @@ def fix_condition(a, b):
         return True
     if b[0].islower():
         return True
-    if (len(b)+5) < len(a):
+    if len(b) < (len(a)/2):
         return True
     if 'AWS' in a[(len(a)-4):]:
         return True
@@ -42,7 +42,7 @@ def handler_answer(answer, choice):
     answers = answer.split(',')
     result = ''
     for x in answers:
-        result = result + choice[int(x)-1].strip() + ', '
+        result = result + choice[int(x)-1].strip() + '| '
     return result.strip()[0:(len(result)-2)]
 
 
